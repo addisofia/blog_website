@@ -22,5 +22,3 @@ gunicorn==21.2.0
 
 # Base de données PostgreSQL
 psycopg2==2.9.6
-# Fix pour AssertionError: TypingOnly
-mypy==0.991
